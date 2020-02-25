@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
-  scale.length.times { | index |
-  puts scale[index]
+  scale.length.times { |2|
+  puts scale[2]
   }
 end
 
