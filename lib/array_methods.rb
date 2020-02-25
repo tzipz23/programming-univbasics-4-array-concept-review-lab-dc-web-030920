@@ -10,9 +10,12 @@ nil
 end
 
 def find_max_value(array)
-  array.max_by do |array|
-    
+  x = 0
+ array.lenth.times { |index|
+  if array[index] > x 
+    x = array[index]
 end
+x
 
 def find_min_value(array)
   
