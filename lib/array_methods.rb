@@ -1,4 +1,7 @@
 def find_element_index(array, value_to_find)
+  array = [1,2,3]
+  length = array.length
+  
   scale.length.times { |2|
   puts scale[2]
   }
