@@ -11,7 +11,7 @@ end
 
 def find_max_value(array)
   array.max_by do |array|
-end
+    return array
 end
 
 def find_min_value(array)
