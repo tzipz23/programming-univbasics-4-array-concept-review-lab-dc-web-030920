@@ -10,8 +10,8 @@ nil
 end
 
 def find_max_value(array)
-  array.max_by do |element|
-  element.field
+  array.max_by do |array|
+  array.field
 end
 end
 
